@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">𝓗𝓮𝓵𝓵𝓸, 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 👋🙋‍♀️</h3>
+<h1 align="center">𝓗𝓮𝓵𝓵𝓸, 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 👋🙋‍♀️</h1>
 
 ###
 
@@ -28,43 +28,31 @@
 
 <br clear="both">
 
-<p align="left">😊 I'm Christina Perera<br>🔭 I am an undergraduate<br>📚 Studying Software Engineering<br>🖥️ Front End Development and AI Engineering<br>🌟 Passionate about Digital Marketing and Data Science<br>⚡ Committed to continuous learning and solving problems</p>
+<p align="left">😊 ɪ'ᴍ ᴄʜʀɪꜱᴛɪɴᴀ ᴘᴇʀᴇʀᴀ<br>🔭 ɪ ᴀᴍ ᴀɴ ᴜɴᴅᴇʀɢʀᴀᴅᴜᴀᴛᴇ<br>📚 ꜱᴛᴜᴅʏɪɴɢ ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀɪɴɢ<br>🖥️ ꜰʀᴏɴᴛ ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ᴀɪ ᴇɴɢɪɴᴇᴇʀɪɴɢ<br>🌟 ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴅɪɢɪᴛᴀʟ ᴍᴀʀᴋᴇᴛɪɴɢ ᴀɴᴅ ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴄᴇ<br>⚡ ᴄᴏᴍᴍɪᴛᴛᴇᴅ ᴛᴏ ᴄᴏɴᴛɪɴᴜᴏᴜꜱ ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ꜱᴏʟᴠɪɴɢ ᴘʀᴏʙʟᴇᴍꜱ</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h4 align="left">🛠 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 𝓪𝓷𝓭 𝓽𝓸𝓸𝓵𝓼</h4>
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
+<p align="center">𝙃𝙏𝙈𝙇 - 𝘾𝙎𝙎 - 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩 - 𝘾++ - 𝙋𝙮𝙩𝙝𝙤𝙣 - 𝘾# - 𝙈𝙮𝙨𝙎𝙌𝙇 - 𝙈𝙤𝙣𝙜𝙤𝘿𝘽 - 𝙋𝙤𝙬𝙚𝙧 𝘽𝙄</p>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h4 align="left">🔥   𝓜𝔂 𝓢𝓽𝓪𝓽𝓼</h4>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neshiy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=neshiy&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="100" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="227" src="https://i.pinimg.com/736x/67/e5/47/67e5470416341a841138f7b5d11e49b6.jpg"  />
 </div>
 
 ###
