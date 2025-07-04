@@ -38,7 +38,7 @@
 
 <h4 align="left">🛠 Language and tools</h4>
 
-###
+#
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -56,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
+#
 
 <h4 align="left">🔥   My Stats :</h4>
 
