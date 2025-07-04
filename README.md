@@ -50,9 +50,4 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="227" src="https://i.pinimg.com/736x/67/e5/47/67e5470416341a841138f7b5d11e49b6.jpg"  />
-</div>
-
 ###
