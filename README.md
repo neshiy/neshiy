@@ -1,10 +1,12 @@
-<img align="right" height="174" src="https://i.pinimg.com/736x/d8/57/98/d857981891a20185f0dc2ea342db8f35.jpg"  />
+<div align="center">
+  <img height="174" src="https://i.pinimg.com/736x/d8/57/98/d857981891a20185f0dc2ea342db8f35.jpg"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<h2 align="center">Hello, Welcome👋💫</h2>
+<h2 align="center">Hello, Welcome👋</h2>
 
 ###
 
@@ -12,7 +14,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 I'm Christina Perera <br><br>- 🔭 I am an undergraduate<br>- 📚 Studying Software Engineering at NIBM<br>- 🌟 Passionate about Digital Marketing and Data Science<br>- ⚡ Committed to continuous learning and solving problems</p>
+<p align="left">I'm Christina Perera <br><br>- 🔭 I am an undergraduate<br>- 📚 Studying Software Engineering at NIBM<br>- 🌟 Passionate about Digital Marketing and Data Science<br>- ⚡ Committed to continuous learning and solving problems</p>
 
 ###
 
@@ -60,5 +62,3 @@
 </div>
 
 ###
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
