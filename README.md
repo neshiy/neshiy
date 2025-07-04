@@ -1,106 +1,70 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/d8/57/98/d857981891a20185f0dc2ea342db8f35.jpg" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">𝓗𝓮𝓵𝓵𝓸, 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 👋🙋‍♀️</div>  
-  
-
-
-
-### 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 💕👩‍💻  
-*😊 I'm Christina Perera*  
-  
-
-*🔭 I am an undergraduate*  
-  
-
-*📚 Studying Software Engineering*  
-  
-
-*🖥️ Front End Development and AI Engineering*  
-  
-
-*🌟 Passionate about Digital Marketing and Data Science*  
-  
-
-*⚡ Committed to continuous learning and solving problems*  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+  <img height="170" src="https://i.pinimg.com/736x/d8/57/98/d857981891a20185f0dc2ea342db8f35.jpg"  />
 </div>
 
-</td><td valign="top" width="33%">
+###
 
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-</div>
+<h3 align="center">𝓗𝓮𝓵𝓵𝓸, 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 👋🙋‍♀️</h3>
 
-</td><td valign="top" width="33%">
+###
 
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/neshiy" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/neshiizz/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/dineshi-christina-perera" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <a href="https://linkedin.com/in/www.linkedin.com/in/dineshi-christina-perera" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="dineshiperera05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://instagram.com/https://www.instagram.com/neshiizz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-<br/>  
+###
 
+<h4 align="left">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 💕👩‍💻</h4>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neshiy&hide_border=true&layout=compact" align="center" /></div>  
+###
 
-<br/>  
+<br clear="both">
 
+<p align="left">😊 I'm Christina Perera<br>🔭 I am an undergraduate<br>📚 Studying Software Engineering<br>🖥️ Front End Development and AI Engineering<br>🌟 Passionate about Digital Marketing and Data Science<br>⚡ Committed to continuous learning and solving problems</p>
 
-## Recent Blog Posts  
-  
+###
 
-<br/>  
+<h3 align="left">🛠 Language and tools</h3>
 
-  
+###
 
-<br/>  
+<br clear="both">
 
-  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
 
-<br/>  
+###
 
+<h3 align="left">🔥   My Stats :</h3>
 
-<br />
+###
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neshiy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=neshiy&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="100" alt="streak graph"  />
+</div>
+
+###
