@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Christina Perera <br><br>- 🔭 I am an undergraduate<br>- 📚 Studying Software Engineering at NIBM<br>- 🖥️ Front End Developments and AI Engineering<br>- 🌟 Passionate about Digital Marketing and Data Science<br>- ⚡ Committed to continuous learning and solving problems</p>
+<p align="left">I'm Christina Perera <br><br>- 🔭 I am an undergraduate<br>- 📚 Studying Software Engineering at NIBM<br>- 🖥️ Front End Development and AI Engineering<br>- 🌟 Passionate about Digital Marketing and Data Science<br>- ⚡ Committed to continuous learning and solving problems</p>
 
 ###
 
